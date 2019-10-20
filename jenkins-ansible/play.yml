@@ -1,0 +1,4 @@
+- hosts: test1
+  tasks:
+    - shell: echo Hello Ataullah Quadri welcome to execute first jenkins and ansible job> /tmp/ansibl-file
+

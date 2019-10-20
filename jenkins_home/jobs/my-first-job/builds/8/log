@@ -1,0 +1,21 @@
+Started by user [8mha:////4LQtkhSJ2LP2kZQ1eDUYnZx6NVdgEpMPZ93PKic/0rmyAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mJenkins Admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins7050698261420927614.sh
++ echo hai i am ataullah
+hai i am ataullah
++ java -version
+openjdk version "1.8.0_222"
+OpenJDK Runtime Environment (build 1.8.0_222-b10)
+OpenJDK 64-Bit Server VM (build 25.222-b10, mixed mode)
++ date
++ echo the current date and time is: Wed Oct  2 19:47:41 UTC 2019
+the current date and time is: Wed Oct  2 19:47:41 UTC 2019
++ NAME=ATAULLA QUADRI
++ date
++ echo hai ATAULLA QUADRI, and current date and time is:Wed Oct  2 19:47:41 UTC 2019
++ cat /tmp/info
+hai ATAULLA QUADRI, and current date and time is:Wed Oct  2 19:47:41 UTC 2019
++ /tmp/script.sh ATAULLAH Quadri
+Hello, ATAULLAH Quadri
+Finished: SUCCESS
